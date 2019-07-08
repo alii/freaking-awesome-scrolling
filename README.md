@@ -10,4 +10,4 @@ Freaking Awesome Scrolling. Let your &lt;a> be free again!
 ```
 Now for every <a> link that links to an anchor (`#like`, `#this`), your website will do a freaking awesome scroll with the easing you picked!
   
-  For a list of easings, please visit (easings.net)[https://easings.net]
+  For a list of easings, please visit [easings.net](https://easings.net)
